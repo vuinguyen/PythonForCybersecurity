@@ -1,3 +1,6 @@
+# This program creates a simple insurance company profile
+# Based on the user's input
+
 company_name = input('What is your company name>> ')
 number_of_employees = input('How many employees are there?>> ')
 location = input('What is your location: city OR country OR state?>> ')
