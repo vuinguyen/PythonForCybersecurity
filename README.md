@@ -18,3 +18,9 @@ This repo contains the assignments I wrote for the Udemy "Python for Cybersecuri
 **Assignment 4:** Inventories and Inventories_Fun
 - Implementing the inventory tracking system as a class
 - Several other examples of class implementations including: Dogs and Cars
+
+**Assignment 5:** API Requests
+
+- With the user's input, make requests against the useless facts API
+- Parse the results that are returned
+- Display the results in a user friendly format
